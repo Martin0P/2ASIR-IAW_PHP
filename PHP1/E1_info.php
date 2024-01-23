@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title>E1_info.php</title>
+    </head>
+    <body>
+        <?php
+        phpinfo();
+        ?>
+    </body>
+</html>
